@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Purpose
+
+To begin using and understanding React, this is my first application running React and am prepared to learn as much as possible through each basic app creation I create.
+
 ## Available Scripts
 
 In the project directory, you can run:
